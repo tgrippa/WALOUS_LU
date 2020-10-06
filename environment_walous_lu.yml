@@ -1,0 +1,13 @@
+name: walous_lu
+channels:
+  - defaults
+dependencies:
+  - python=3.6
+  - numpy
+  - psycopg2
+  - pandas
+  - nbdime
+  - matplotlib
+  - scikit-learn
+prefix: /home/tais/anaconda3/envs/walous_lu
+
