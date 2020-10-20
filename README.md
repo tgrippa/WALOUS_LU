@@ -109,4 +109,4 @@ The solution implemented in this repository store credentials (username and pass
 The authors gratefully thanks the Geomatics division of the Walloon Public Services (SPW, SPW-ARNE and Geomatic department) founding the WalOUS project.  
 
 ## Citing this code 
-TODO : Zenodo DOI with all co-authors.
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4108713.svg)](https://doi.org/10.5281/zenodo.4108713)
