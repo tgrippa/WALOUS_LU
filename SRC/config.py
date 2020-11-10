@@ -1,18 +1,18 @@
 #!/usr/bin/env python
 """
-WALOUS_LU - Copyright (C) 2020 Université catholique de Louvain (UCLouvain), Belgique
-					 Université Libre de Bruxelles (ULB), Belgique 
-					 Institut Scientifique de Service Public (ISSeP), Belgique 
-					 Service Public de Wallonie (SWP), Belgique 
+WALOUS_UTS - Copyright (C) <2020> <Université catholique de Louvain (UCLouvain), Belgique
+					 Université Libre de Bruxelles (ULB), Belgique
+					 Institut Scientifique de Service Public (ISSeP), Belgique
+					 Service Public de Wallonie (SWP), Belgique >
 						 							
 	
-List of the contributors to the development of WALOUS_LU: see LICENSE file.
+List of the contributors to the development of WALOUS_UTS: see LICENSE file.
 Description and complete License: see LICENSE file.
 	
-This program (WALOUS_LU) is free software: 
-you can redistribute it and/or modify it under the terms of the 
-GNU General Public License as published by the Free Software 
-Foundation, either version 3 of the License, or (at your option) 
+This program (WALOUS_UTS) is free software:
+you can redistribute it and/or modify it under the terms of the
+GNU General Public License as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
 any later version.
 
 This program is distributed in the hope that it will be useful,
@@ -21,7 +21,7 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
-along with this program (see COPYING file).  If not, 
+along with this program (see COPYING file).  If not,
 see <http://www.gnu.org/licenses/>.
 """
 
