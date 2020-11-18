@@ -1,9 +1,9 @@
 #!/usr/bin/env python
 """
-WALOUS_UTS - Copyright (C) <2020> <Université catholique de Louvain (UCLouvain), Belgique
-					 Université Libre de Bruxelles (ULB), Belgique
-					 Institut Scientifique de Service Public (ISSeP), Belgique
-					 Service Public de Wallonie (SWP), Belgique >
+WALOUS_UTS - Copyright (C) <2020> <Service Public de Wallonie (SWP), Belgique,
+					          		Institut Scientifique de Service Public (ISSeP), Belgique,
+									Université catholique de Louvain (UCLouvain), Belgique,
+									Université Libre de Bruxelles (ULB), Belgique>
 						 							
 	
 List of the contributors to the development of WALOUS_UTS: see LICENSE file.
